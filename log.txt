@@ -1,0 +1,151 @@
+2023-09-19 13:08:33,258 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:08:33,368 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:08:33,477 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:08:33,586 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:08:33,931 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:08:48,372 - INFO - Atualizou a planilha com status None para a linha 2
+2023-09-19 13:08:49,012 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:08:49,122 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:08:49,231 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:08:49,342 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:08:49,687 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:08:55,504 - INFO - Clicou na imagem 5 para a linha 3
+2023-09-19 13:08:55,505 - INFO - Escreveu "repetido" para a linha 3
+2023-09-19 13:08:55,507 - INFO - Atualizou a planilha com status repetido para a linha 3
+2023-09-19 13:08:55,554 - INFO - Salvou a planilha
+2023-09-19 13:11:00,163 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:11:00,271 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:11:00,379 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:11:00,490 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:11:00,852 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:11:15,925 - WARNING - Nenhuma das imagens foi encontrada para a linha 2
+2023-09-19 13:11:15,925 - INFO - Atualizou a planilha com status None para a linha 2
+2023-09-19 13:11:16,561 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:11:16,679 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:11:16,788 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:11:16,898 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:11:17,260 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:11:23,090 - INFO - Clicou na imagem 5 para a linha 3
+2023-09-19 13:11:23,090 - INFO - Escreveu "repetido" para a linha 3
+2023-09-19 13:11:23,090 - INFO - Atualizou a planilha com status repetido para a linha 3
+2023-09-19 13:11:23,142 - INFO - Salvou a planilha
+2023-09-19 13:12:57,183 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:12:57,293 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:12:57,401 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:12:57,512 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:12:57,907 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:13:11,663 - WARNING - Nenhuma das imagens foi encontrada para a linha 2
+2023-09-19 13:13:11,663 - INFO - Atualizou a planilha com status None para a linha 2
+2023-09-19 13:13:12,427 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:13:12,536 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:13:12,646 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:13:12,757 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:13:13,102 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:13:18,717 - INFO - Clicou na imagem 5 para a linha 3
+2023-09-19 13:13:18,717 - INFO - Escreveu "repetido" para a linha 3
+2023-09-19 13:13:18,717 - INFO - Atualizou a planilha com status repetido para a linha 3
+2023-09-19 13:13:18,767 - INFO - Salvou a planilha
+2023-09-19 13:17:12,429 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:17:12,550 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:17:12,658 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:17:12,769 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:17:13,160 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:17:15,467 - INFO - Escreveu "adicionado" para a linha 2
+2023-09-19 13:17:15,467 - INFO - Atualizou a planilha com status adicionado para a linha 2
+2023-09-19 13:17:16,052 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:17:16,161 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:17:16,273 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:17:16,386 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:17:16,762 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:17:17,027 - INFO - Escreveu "adicionado" para a linha 3
+2023-09-19 13:17:17,027 - INFO - Atualizou a planilha com status adicionado para a linha 3
+2023-09-19 13:17:50,204 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:17:50,315 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:17:50,425 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:17:50,534 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:17:50,898 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:18:03,002 - WARNING - Nenhuma das imagens foi encontrada para a linha 2
+2023-09-19 13:18:03,002 - INFO - Atualizou a planilha com status None para a linha 2
+2023-09-19 13:18:03,780 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:18:03,890 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:18:04,000 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:18:04,109 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:18:04,441 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:18:10,455 - INFO - Atualizou a planilha com status None para a linha 3
+2023-09-19 13:18:10,486 - INFO - Salvou a planilha
+2023-09-19 13:19:41,538 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:19:41,649 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:19:41,760 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:19:41,870 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:19:42,234 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:19:54,212 - WARNING - Nenhuma das imagens foi encontrada para a linha 2
+2023-09-19 13:19:54,212 - INFO - Atualizou a planilha com status None para a linha 2
+2023-09-19 13:19:54,836 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:19:54,945 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:19:55,055 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:19:55,165 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:19:55,495 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:20:01,831 - INFO - Clicou na imagem 5 para a linha 3
+2023-09-19 13:20:01,831 - INFO - Escreveu "repetido" para a linha 3
+2023-09-19 13:20:01,831 - INFO - Atualizou a planilha com status repetido para a linha 3
+2023-09-19 13:20:01,889 - INFO - Salvou a planilha
+2023-09-19 13:20:45,720 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:20:45,829 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:20:45,938 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:20:46,047 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:20:46,410 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:20:59,530 - WARNING - Nenhuma das imagens foi encontrada para a linha 2
+2023-09-19 13:20:59,530 - INFO - Atualizou a planilha com status None para a linha 2
+2023-09-19 13:21:00,287 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:21:00,397 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:21:00,506 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:21:00,616 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:21:00,946 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:21:07,263 - INFO - Atualizou a planilha com status None para a linha 3
+2023-09-19 13:21:07,295 - INFO - Salvou a planilha
+2023-09-19 13:22:18,506 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:22:18,615 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:22:18,727 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:22:18,837 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:22:19,215 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:22:22,467 - INFO - Escreveu "adicionado" para a linha 2
+2023-09-19 13:22:22,467 - INFO - Atualizou a planilha com status adicionado para a linha 2
+2023-09-19 13:22:23,035 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:22:23,161 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:22:23,272 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:22:23,382 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:22:23,726 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:22:37,244 - WARNING - Nenhuma das imagens foi encontrada para a linha 3
+2023-09-19 13:22:37,244 - INFO - Atualizou a planilha com status None para a linha 3
+2023-09-19 13:22:37,270 - INFO - Salvou a planilha
+2023-09-19 13:23:06,075 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:23:06,186 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:23:06,294 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:23:06,405 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:23:06,752 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:23:10,005 - INFO - Escreveu "adicionado" para a linha 2
+2023-09-19 13:23:10,005 - INFO - Atualizou a planilha com status adicionado para a linha 2
+2023-09-19 13:23:10,585 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:23:10,695 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:23:10,804 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:23:10,914 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:23:11,261 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:23:25,988 - WARNING - Nenhuma das imagens foi encontrada para a linha 3
+2023-09-19 13:23:25,988 - INFO - Atualizou a planilha com status None para a linha 3
+2023-09-19 13:23:26,021 - INFO - Salvou a planilha
+2023-09-19 13:25:04,115 - INFO - Clicou na imagem 1 para a linha 2
+2023-09-19 13:25:04,224 - INFO - Inseriu o nome MB para a linha 2
+2023-09-19 13:25:04,334 - INFO - Pressionou a tecla Tab para a linha 2
+2023-09-19 13:25:04,444 - INFO - Inseriu o telefone 5532999040590 para a linha 2
+2023-09-19 13:25:04,806 - INFO - Clicou na imagem 2 para a linha 2
+2023-09-19 13:25:10,069 - INFO - Escreveu "adicionado" para a linha 2
+2023-09-19 13:25:10,069 - INFO - Atualizou a planilha com status adicionado para a linha 2
+2023-09-19 13:25:10,703 - INFO - Clicou na imagem 1 para a linha 3
+2023-09-19 13:25:10,813 - INFO - Inseriu o nome MB para a linha 3
+2023-09-19 13:25:10,923 - INFO - Pressionou a tecla Tab para a linha 3
+2023-09-19 13:25:11,034 - INFO - Inseriu o telefone 5532999040590 para a linha 3
+2023-09-19 13:25:11,364 - INFO - Clicou na imagem 2 para a linha 3
+2023-09-19 13:25:17,253 - INFO - Clicou na imagem 5 para a linha 3
+2023-09-19 13:25:17,253 - INFO - Escreveu "repetido" para a linha 3
+2023-09-19 13:25:17,253 - INFO - Atualizou a planilha com status repetido para a linha 3
+2023-09-19 13:25:17,305 - INFO - Salvou a planilha
